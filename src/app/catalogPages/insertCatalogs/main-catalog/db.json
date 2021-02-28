@@ -1,0 +1,66 @@
+{
+  "categories": [
+    {
+      "category_name": "furnitures",
+      "user_name": "priyanka",
+      "user_id": "3",
+      "description": "ghdesciprtion",
+      "date": "2021-02-28",
+      "id": 1
+    },
+    {
+      "category_name": "Men",
+      "user_name": "priyanka",
+      "user_id": "3",
+      "description": "ghdesciprtion",
+      "date": "2021-02-28",
+      "id": 2
+    },
+    {
+      "category_name": "Women",
+      "user_name": "priyanka",
+      "user_id": "2",
+      "description": "ghdesciprtion",
+      "date": "",
+      "id": 3
+    },
+    {
+      "category_name": "Child section",
+      "user_name": "priyanka",
+      "user_id": "2",
+      "description": "ghdesciprtion",
+      "date": "",
+      "id": 4
+    }
+  ],
+  "subcategories": [
+    {
+      "sub_category_name": "chairs",
+      "category_name": "furnitures",
+      "user_name": "priyanka",
+      "user_id": "3",
+      "description": "ghdesciprtion",
+      "date": "2021-02-21",
+      "id": 1
+    },
+    {
+      "sub_category_name": "Beds",
+      "category_name": "furnitures",
+      "user_name": "priyanka",
+      "user_id": "3",
+      "description": "ghdesciprtion",
+      "date": "2021-02-21",
+      "id": 2
+    },
+    {
+      "sub_category_name": "Tables",
+      "category_name": "furnitures",
+      "user_name": "priyanka",
+      "user_id": "2",
+      "description": "ghdesciprtion",
+      "date": "2021-02-28",
+      "id": 3
+    }
+  ],
+  "subsubcategories": []
+}

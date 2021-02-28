@@ -1,0 +1,93 @@
+.header {
+    overflow: hidden;
+
+    .logo {
+    width: 30%;
+    float: left;
+
+    .logo_image {
+        width: 50%;
+        height: 20%;
+        margin-left: 10%;
+    }
+    }
+
+    .header_space {
+    width: 40%;
+    }
+
+    .admin_logout {
+    width: 30%;
+    float: right;
+    font-family: cursive;
+    color: maroon;
+
+    .login_Text {
+        padding-right: 10%;
+    }
+
+    .login_Img {
+        margin-top: 10%;
+        width: 10%;
+        height: 10%;
+    }
+    }
+}
+
+.nav {
+    background-color: rgb(214, 223, 231);
+    padding: 1%;
+}
+
+.nav_buttons {
+    padding: 1%;
+
+    .nav_add_btns {
+    padding: 1%;
+    font-family: 'Courier New', Courier, monospace;
+    color: blue;
+    }
+}
+
+.form_container {
+    width: 50%;
+    float: left;
+    color: maroon;
+    font-family: 'Courier New', Courier, monospace;
+    padding-left: 10%;
+
+    input {
+    border: 0px solid;
+    border-bottom: 1px solid;
+    margin: 4%;
+    outline: none;
+    }
+
+}
+
+.imformation {
+    margin: 3% 20%;
+    color: maroon;
+    font-style: oblique;
+    font-family: cursive;
+}
+
+.cat_list_container {
+    float: right;
+    width: 40%;
+
+    .catName_list {
+    margin-right: 50%;
+    }
+
+    .cat_list {
+    background-color: azure;
+    }
+
+    li {
+    border-bottom: 1px solid aquamarine;
+    list-style-type: none;
+    padding: 2%;
+    box-shadow: 1px 1px 10px solid aquamarine;
+    }
+}
